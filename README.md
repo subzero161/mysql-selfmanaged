@@ -28,3 +28,9 @@ An example dataset that you have found (selected) to insert into the mysql datab
 
 
 PLEASE NOTE:  if you can not get something to work - please upload screen shots to your github repo of the errors you ran into (perhaps into a errors folder with images?), and describe your thought process for how you attempted to go about, but perhaps ultimately unsuccessful in removing said errors
+
+
+
+#### ERROR Creating the project
+
+GCP says access denied for user. Can  not get a public IP on Azure despite reallocating resources. Photos attachedon issues folder.
